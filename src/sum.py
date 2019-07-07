@@ -1,3 +1,4 @@
-print("Hello World")
+print("A sample program to add two integers")
 x = input("Enter an Integer number: ")
-print("Sum = ",x)
+y = input("Enter an Integer number: ")
+print("Sum = ",x+y)
