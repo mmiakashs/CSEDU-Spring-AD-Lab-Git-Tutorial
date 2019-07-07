@@ -1,4 +1,4 @@
 print("A sample program to add two integers")
-x = input("Enter an Integer number: ")
-y = input("Enter an Integer number: ")
+x = int(input("Enter an Integer number: "))
+y = int(input("Enter an Integer number: "))
 print("Sum = ",x+y)
